@@ -7,6 +7,7 @@ import springpod from "./springpod.png";
 import CV from "./CV.pdf";
 
 
+
 import css from "./tech/css.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -21,6 +22,7 @@ import allstate from "./company/allstate.png";
 import hacked from "./company/hacked.png";
 import kainos from "./company/kainos.png";
 import screen from "./company/screen.png";
+import hospice from "./company/hospice.jpg";
 
 import website from './website.png';
 import pythonAssignment from './pythonAssignment.png';
@@ -49,4 +51,5 @@ export {
   pythonAssignment,
   CV,
   JavaAssignment,
+  hospice,
 };

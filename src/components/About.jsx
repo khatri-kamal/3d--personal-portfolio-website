@@ -17,13 +17,13 @@ const About = () => {
         variant={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-2-3xl leading-[30px]"
       >
-        Computer science student with a passion for learning and a strong
-        foundation in programming principles. Eager to apply theoretical
-        knowledge and practical skills in a challenging environment. Dedicated
-        to continuously expanding my understanding of cutting-edge technologies
-        and seeking opportunities to contribute to innovative projects.
-        Committed to growth, collaboration, and delivering high-quality
-        solutions.
+        Computing science student excited to contribute my academic learning in a 
+        company that values innovation. My academic path has been complimented with 
+        hands-on experience in customer service gained thanks to voluntary work at 
+        charity shop. This experience strengthened my communication, problem-solving, 
+        and teamwork skills. A software engineer placement allows me to supplement my 
+        academic and interpersonal skills in an area that interests me. I am genuinely 
+        interested in the back-end and software development role. 
       </motion.p>
     </>
   );

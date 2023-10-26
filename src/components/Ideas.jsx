@@ -80,7 +80,7 @@ const Upcoming = () => {
         <p className={`${styles.sectionSubText}`}>
           Ideas.
         </p>
-        <h2 className={`${styles.sectionHeadText}`}>Upcoming Projects</h2>
+        <h2 className={`${styles.sectionHeadText}`}>Project Ideas</h2>
       </motion.div>
 
       <div className="mt-20 flex flex-wrap gap-10 ">

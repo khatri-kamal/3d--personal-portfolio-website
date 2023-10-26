@@ -18,6 +18,7 @@ import {
   pythonAssignment,
   JavaAssignment,
   CV,
+  hospice,
 } from "../assets";
 
 export const navLinks = [
@@ -42,24 +43,24 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Rect and Tailwindcss Project",
-    icon: reactjs,
-    description: "I will be learning more about how to create a website using React and Tailwindcss. This is so that I can improve my website assignment.",
+    title: "HTML, CSS, JavaScript",
+    icon: javascript,
+    description: "I have idea to create simplefied portfolio website projects with just HTML, CSS and JavaScript. Most of the website is done.",
   },
   {
     title: "Interactive Web Improvement",
     icon: tailwind,
-    description: "I will use what I learned during the courses to imporve my Website assignment using React and Tailwindcss.",
+    description: "This has been finished and up in github if you wish to view the project and its code.",
   },
   {
     title: "Python Assignment Improvement",
     icon: python,
-    description: "I will be adding GUI to my assignment and improve anything else I need to.",
+    description: "This has also been done and can be viewed in github.",
   },
   {
-    title: "Java Assignment Improvement",
+    title: "Java Android Development",
     icon: java,
-    description: "I will also be adding GUI to this assigment as well and improve anything I could.",
+    description: "This is something I have been interested and wish to learn.",
   },
 ];
 
@@ -114,17 +115,25 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Virtual Work Experience",
+    title: "Store Assistants Volunteer",
+    company_name: "NI Hospice",
+    icon: hospice,
+    iconBg: "black",
+    date: "July 2023 - Present",
+    points: [
+      "Managed day-to-day charity shop operations, including organising store displays to maintain a tidy and welcoming environment.",
+      "Provided exceptional customer service, including greeting and assisting customers with a friendly and helpful attitude, while handling cashier duties accurately, securely, and efficiently with a smile, ensuring customer satisfaction.",
+    ],
+  },
+  {
+    title: "Insight Program",
     company_name: "Allstate",
     icon: allstate,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "3 Day Insight Program",
     points: [
-      "During my 3-day work experience at Allstate, I had the opportunity to explore various IT departments and learn about their roles within the company. I was introduced to different sectors, including Data Visualization, Design Team, Cyber Security, and Data Analysis.",
-      "I gained valuable knowledge and experience in several areas, such as Test Driven Development, Mules, and the correct way to utilize LinkedIn.",
-      "Learned new concept and Technology such as Test Driven Development, Mules and correct Way to use LinkedIn. ",
-      "On the final day, I had the privilege of taking a tour of Allstate's facilities and received valuable interview tips.",
-      "I had the opportunity to collaborate with teams to discuss and present concepts based on tasks assigned by the employees.",
+      "Learned about different concepts such as CI/CD, MVP, TDD, Data Visualisation and use of slacks in a team environment.",
+      "Learned interview tips, how to use Linked-in, and did a small team exercise where we had to discuss a development of an application, including features, cost, security and testing.",
     ],
   },
   {
@@ -159,10 +168,8 @@ const experiences = [
     iconBg: "white",
     date: "March 2019 - March 2019",
     points: [
-      "Collaborating in a team to develop a sustainable website that educates users about proper waste disposal categorization.",
-      "Working collectively with other team members to distribute the workload and ensure efficiency.",
-      "Creating a comprehensive PowerPoint presentation to showcase our innovative ideas to company executives.",
-      "Participating in code reviews and presenting our work in a competitive environment against other teams.",
+      "Received an introduction to the concepts of creating a website using HTML.",
+      "Created a basic website in a group that gives information on types of bins and how to use them correctly, which was subsequently demonstrated to the employers on the last day.",
     ],
   },
 ];
@@ -214,8 +221,8 @@ const projects = [
       },
     ],
     image: website,
-    source_code_link: "https://github.com/",
-    demo_Link: "https://www.youtube.com/",
+    source_code_link: "https://github.com/khatri-kamal/Interactive-Web-Authoring-Improvement",
+    demo_Link: "https://github.com/khatri-kamal",
     category: "Website",
   },
   {
@@ -229,8 +236,8 @@ const projects = [
       },
     ],
     image: pythonAssignment,
-    source_code_link: "https://github.com/",
-    demo_Link: "https://www.youtube.com/",
+    source_code_link: "https://github.com/khatri-kamal/Python-Assignment-Improvement",
+    demo_Link: "https://github.com/khatri-kamal",
     category: "Python",
   },
   {
@@ -244,8 +251,8 @@ const projects = [
       },
     ],
     image: JavaAssignment,
-    source_code_link: "https://github.com/",
-    demo_Link: "https://www.youtube.com/",
+    source_code_link: "https://github.com/khatri-kamal/Java-Student-Enrollment-Assignment",
+    demo_Link: "https://github.com/khatri-kamal",
     category: "Java",
   },
 ];
