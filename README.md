@@ -45,7 +45,7 @@ Furthermore, I refined my contact form based on insights gained from my universi
 
 This demo gives an overview of my website, showcasing all the functionality as well as providing a responsive design view for mobile devices.
 
-<video src="Website%20Demo%20Real.mp4" controls title="Website Demo"></video>
+https://github.com/khatri-kamal/3d--personal-portfolio-website/assets/137229125/783a6bf5-f98f-4ae0-b1d5-fa0e9713ea07
 
 ## 📈 Performance Benchmark [🔝](#-table-of-contents)
 
