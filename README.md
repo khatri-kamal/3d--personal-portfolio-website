@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://kamal-khatri.vercel.app/">🌐 3D Personal Portfolio Website 🌐</a></h1>
+<h1 align="center"><a href="https://kamal-khatri.vercel.app/" target="_blank">🌐 3D Personal Portfolio Website 🌐</a></h1>
 
  <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
