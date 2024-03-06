@@ -121,7 +121,7 @@ After learning and applying many performance improvements, the current version o
 
 ## 🤜🤛 Acknowledgements & Resources
 
-This website was created by following a tutorial and making changes to fit my needs. Please check the link for the YouTuber's channel and the official tutorial.
+This website was created by following a tutorial and made changes to fit my needs. Please check the link for the YouTuber's channel and the official tutorial.
 
 - [Original YouTube Tutorial](https://www.youtube.com/watch?v=0fYi8SGA20k&pp=ygUUM2Qgd2Vic2l0ZSBwb3J0Zm9saW8%3D)
 - [YouTuber's Link](https://www.youtube.com/@javascriptmastery/featured)
