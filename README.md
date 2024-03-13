@@ -17,7 +17,7 @@
   - [📈 Performance Benchmark 🔝](#-Performance-Benchmark-)
   - [🛠️ Installation 🔝](#️-installation-)
   - [📚 Lesson Learned 🔝](#-lesson-learned-)
-  - [🤜🤛 Acknowledgement 🔝](#acknowledgement)
+  - [🤜🤛 Acknowledgement 🔝](#-acknowledgement)
 
 ## 📖 Introduction [🔝](#-table-of-contents)
 
@@ -113,13 +113,13 @@ Open it in your browser to view the project.
   http://localhost:5173
 ```
 
-## 📚 Lessons Learned
+## 📚 Lessons Learned [🔝](#-table-of-contents)
 
 While the tutorial was excellent and taught me React, Tailwind CSS, and Three.js, the most important lesson I learned was improving the performance of a website and finding the right balance between UI, UX, and performance. In version 1, the website looked impressive, but its performance was extremely slow and resource-intensive, especially for older hardware. 
 
 After learning and applying many performance improvements, the current version of the website provides a key balance between UX and performance.
 
-## 🤜🤛 Acknowledgements & Resources
+## 🤜🤛 Acknowledgements & Resources [🔝](#-table-of-contents)
 
 This website was created by following a tutorial and made changes to fit my needs. Please check the link for the YouTuber's channel and the official tutorial.
 
