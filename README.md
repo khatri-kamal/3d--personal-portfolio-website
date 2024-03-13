@@ -119,7 +119,7 @@ While the tutorial was excellent and taught me React, Tailwind CSS, and Three.js
 
 After learning and applying many performance improvements, the current version of the website provides a key balance between UX and performance.
 
-## 🤜🤛 Acknowledgements & Resources [🔝](#-table-of-contents)
+## 🤜🤛 Acknowledgement [🔝](#-table-of-contents)
 
 This website was created by following a tutorial and made changes to fit my needs. Please check the link for the YouTuber's channel and the official tutorial.
 
