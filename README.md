@@ -15,10 +15,9 @@
   - [👨‍💻 Features 🔝](#-features-)
   - [🎞 Project Demo 🔝](#-project-demo-)
   - [📈 Performance Benchmark 🔝](#-performance-benchmark-)
-  - [🛠️ Installation 🔝](#-installation-)
+  - [🛠️ Installation 🔝](#️-installation-)
   - [📚 Lessons Learned 🔝](#-lessons-learned-)
-  - [🤜🤛 Acknowledgement 🔝](#-acknowledgement)
-
+  - [📚 Acknowledgements & Resources 🔝](#-acknowledgements--resources-)
 
 ## 📖 Introduction [🔝](#-table-of-contents)
 
