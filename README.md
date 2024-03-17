@@ -35,7 +35,7 @@ Furthermore, I refined my contact form based on insights gained from my universi
 - Three.js
 - Email JS
 
-## Features [🔝](#-table-of-contents)
+## 👨‍💻 Features [🔝](#-table-of-contents)
 
 - Functional Contact Form  
 - Responsive Design
@@ -45,7 +45,7 @@ Furthermore, I refined my contact form based on insights gained from my universi
 
 This demo gives an overview of my website, showcasing all the functionality as well as providing a responsive design view for mobile devices.
 
-https://github.com/khatri-kamal/3d--personal-portfolio-website/assets/137229125/783a6bf5-f98f-4ae0-b1d5-fa0e9713ea07
+<video src="Website%20Demo%20Real.mp4" controls title="Website Demo"></video>
 
 ## 📈 Performance Benchmark [🔝](#-table-of-contents)
 
@@ -119,9 +119,9 @@ While the tutorial was excellent and taught me React, Tailwind CSS, and Three.js
 
 After learning and applying many performance improvements, the current version of the website provides a key balance between UX and performance.
 
-## 🤜🤛 Acknowledgement [🔝](#-table-of-contents)
+## 🤜🤛 Acknowledgements & Resources [🔝](#-table-of-contents)
 
-This website was created by following a tutorial and made changes to fit my needs. Please check the link for the YouTuber's channel and the official tutorial.
+This website was created by following a tutorial and making changes to fit my needs. Please check the link for the YouTuber's channel and the official tutorial.
 
 - [Original YouTube Tutorial](https://www.youtube.com/watch?v=0fYi8SGA20k&pp=ygUUM2Qgd2Vic2l0ZSBwb3J0Zm9saW8%3D)
 - [YouTuber's Link](https://www.youtube.com/@javascriptmastery/featured)
@@ -140,5 +140,3 @@ This README was created using a guides and template. For more information, pleas
  This website has all the badges.
 
  - [Readme Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
-
-
