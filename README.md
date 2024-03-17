@@ -17,7 +17,7 @@
   - [📈 Performance Benchmark 🔝](#-performance-benchmark-)
   - [🛠️ Installation 🔝](#️-installation-)
   - [📚 Lessons Learned 🔝](#-lessons-learned-)
-  - [📚 Acknowledgements & Resources 🔝](#-acknowledgements--resources-)
+  - [🤜🤛 Acknowledgements & Resources 🔝](#-acknowledgements--resources-)
 
 ## 📖 Introduction [🔝](#-table-of-contents)
 
