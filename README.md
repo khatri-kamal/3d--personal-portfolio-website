@@ -10,8 +10,6 @@
 
 ## 📄 Table of Contents
 
-## 📄 Table of Contents
-
   - [📖 Introduction 🔝](#-introduction-)
   - [👨‍💻 Tech stack 🔝](#-tech-stack-)
   - [👨‍💻 Features 🔝](#-features-)
@@ -78,6 +76,7 @@ These changes reflect the noticable performance improvement of the website from 
 <h3>Version 2.0 desktop performance improvement</a></h1>
 
 ![Desktop performance imporvement](<Desktop Improvements.png>)
+
 
 ## 🛠️ Installation [🔝](#-table-of-contents)
 
