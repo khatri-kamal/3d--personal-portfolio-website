@@ -13,11 +13,12 @@
   - [📖 Introduction 🔝](#-introduction-)
   - [👨‍💻 Tech stack 🔝](#-tech-stack-)
   - [👨‍💻 Features 🔝](#-features-)
-  - [🎞 Project Demo 🔝](#️-project-demo-)
-  - [📈 Performance Benchmark 🔝](#-Performance-Benchmark-)
-  - [🛠️ Installation 🔝](#️-installation-)
-  - [📚 Lesson Learned 🔝](#-lesson-learned-)
+  - [🎞 Project Demo 🔝](#-project-demo-)
+  - [📈 Performance Benchmark 🔝](#-performance-benchmark-)
+  - [🛠️ Installation 🔝](#-installation-)
+  - [📚 Lessons Learned 🔝](#-lessons-learned-)
   - [🤜🤛 Acknowledgement 🔝](#-acknowledgement)
+
 
 ## 📖 Introduction [🔝](#-table-of-contents)
 
