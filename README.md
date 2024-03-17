@@ -10,6 +10,8 @@
 
 ## 📄 Table of Contents
 
+## 📄 Table of Contents
+
   - [📖 Introduction 🔝](#-introduction-)
   - [👨‍💻 Tech stack 🔝](#-tech-stack-)
   - [👨‍💻 Features 🔝](#-features-)
